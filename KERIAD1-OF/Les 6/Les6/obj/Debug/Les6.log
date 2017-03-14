@@ -1,0 +1,2 @@
+﻿  ofApp.cpp
+src\ofApp.cpp(37): error C3867: 'ofSoundPlayer::isPlaying': non-standard syntax; use '&' to create a pointer to member

@@ -1,0 +1,26 @@
+Hardware lijst:
+
+Arduino Uno.
+Plastic voor het uiteindelijke Design.
+Veel LED. | http://www.hackerstore.nl/Artikel/167
+4 Ultrasonic Senosors. | http://www.hackerstore.nl/Artikel/95
+Max7219 Driver board | http://www.hackerstore.nl/Artikel/294
+
+Ik zou 4 ultrasonic sensors plaatsen, eentje boven, eentje onder, eentje links en eentje rechts. 
+Door deze sensors uit te lezen kan ik de positie en ongeveer een vorm meekrijgen.
+Deze vorm zou ik via een LED driver bridges (een manier om veel ledjes samen te laten werken) omtoveren in beweging.
+
+Stap 1:
+Setup hierbij displayed de muur een gradient aan random colors.
+
+Stap 2:
+Sensors pikken een lezing op, misschien pikken ze meerdere lezingen op om zo een beter average te krijgen (uiteindelijk optellen en delen).
+
+Stap 3:
+Sensors zien de positie en veranderen de kleur van waar er iets is waargenomen.
+
+Stap 4:
+Sensors pikken weer een lezing op, om te kijken of de positie van het object is verandert.
+
+Stap 5:
+Herpositioneer de led veranderingen.

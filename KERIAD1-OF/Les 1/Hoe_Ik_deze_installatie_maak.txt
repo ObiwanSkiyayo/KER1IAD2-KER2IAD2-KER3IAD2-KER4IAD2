@@ -1,0 +1,38 @@
+Hoe zou je deze installatie kunnen maken?
+link: https://www.youtube.com/watch?v=66A5uGBqJ6o
+
+Omschrijving: Een sculpture van een hoofd, met als je er te dichtbij bent, die keihard gaat "huilen".
+
+Ik zou beginnen met het ontwerp van het hoofd waarbij er gaten zijn uitgehold voor de oogkasten.
+Daarna zou ik een slang erdoorheen voeren met een resoirvaar met water, deze is geposisoneerd onder de sculpture.
+
+
+Voor de "trigger", om het water dus daadwerkelijk uit zijn ogen te laten schieten zou ik iets van een ultrasonic sensor i.c.m. een arduino gebruiken. 
+Dit zodat als er iemand dichtbij is, er iets aangezet wordt.
+Om het water daadwerkelijk zo hard als het maar kan eruit te gooien, zou ik een hogedrukspuit uit elkaar schroeven en uitzoeken hoe de trigger van een hogedrukspuit werkt, en uitzoeken hoeveel druk er nodig is om de trekker over te halen.
+
+De "trigger" van bijvoorbeeld een Karger* geeft altijd door wanneer die is ingedrukt, door deze trigger te reverse te engineeren zou ik deze met de arduino kunnen aan en uit zetten, met bijv. een klein motortje of electrisch signaal.
+De twee Kargers (voor beide ogen) zou ik verwerken in de basis van het beeld, deze sluit ik beide aan in een verlengsnoer (gaat goed samen met water).
+Dit verlengsnoer komt er aan de achterzijde uit en is de algemene stroom voorziening.
+
+Misschien (ligt aan de tijd) kan ik de Kargers aan elkaar verbieden doormiddel van een omvormer om zo het verlengsnoer de das om te doen.
+
+
+Samenvatting:
+Beeld zelf maken van bijvoorbeeld kei. Twee hogedrukreinigers kopen en uit elkaar halen, samen voegen en achter de ogen plaatsen. Arduino ultrasonic sensor om te kijken als er iemand in de buurt is. 
+Code om hem bijvoorbeeld 2 seconden te laten huilen als er iemand te dichtbij staat.
+
+
+
+
+
+
+
+
+
+
+
+* Links en opmerkingen
+( voorbeeld: http://picscdn.redblue.de/doi/pixelboxx-mss-63946956/fee_786_587_png/KARCHER-K2-Compact-Home )
+
+Eventueel hoef je maar een hogedrukspuit te hebben die misschien aan het einde wordt opgesplit in een Y splitsing.
