@@ -1,0 +1,14 @@
+Klopt de strekking van het verhaal?
+Ja, er werd in het filmpje onderop de pagina duidelijk gemaakt dat ze structureel anders in elkaar zitten, logisch zou Cruijff zeggen. Zo zou Google meer werken in kleine groepjes, en Apple zich juist laat aansturen door "creative geniuses". De visualisatie laat dit duidelijk zien, zo zijn er in Apple's deel (veel) grotere cirkels te zien dan die aan Google's kant daarom ben ik geneigd te zeggen dat het verhaal dat fastcodesign.com aan de kaart stelt, de juiste is.
+
+
+Kun je de gebruikte visualisatie in de tool reproduceren?
+Kan ik het persoonlijk? Heel misschien met heel veel tijd. Zo zie ik namelijk dat Patentview een API aanbied waar er via JSON data kan worden uitgelezen, zo dus ook de data die nodig is om dit te reproduceren.Het is mogelijk om via de API een patent nummer, uitvinders naam en/of de datum van het patent uit te lezen. Zo bestaan er ook genoeg sites waarop "notable apple employees" vermeld staan en het zou dus mogelijk kunnen zijn om dit te kunnen koppelen aan de API om zo te kijken als deze personen voorkomen in Patenview. 
+
+
+Kun je met dezelfde data tot een andere conclusie komen?
+Ja momenteel lijkt het erg objectief alhoewel het lijkt alsof er bij Apple meer "eindbazen" rondlopen. In het artikel staat wel het volgende vermeld :“The average number of inventors listed on a patent at Apple is 4.2. At Google, it’s 2.8,” he explains. “These combined effects mean an inventor at Apple has, on average, produced more than twice the patents than one at Google. Nine vs. four.”. Door deze data uit te lichten zou je dus op een groot verschil uitkomen, leg deze nogmaals onder een vergrootglas en er komt een hele andere conclusie uit.
+
+Links:
+https://goo.gl/tH2Cwj
+http://www.patentsview.org

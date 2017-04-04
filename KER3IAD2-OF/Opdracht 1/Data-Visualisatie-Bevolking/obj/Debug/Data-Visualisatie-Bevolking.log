@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (BevolkingGewest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     Creating library bin\Data-Visualisatie-Bevolking_debug.lib and object bin\Data-Visualisatie-Bevolking_debug.exp
+  Data-Visualisatie-Bevolking.vcxproj -> D:\Git\KER1IAD2-KER2IAD2-KER3IAD2-KER4IAD2\KER1IAD2-KER2IAD2-KER3IAD2-KER4IAD2\KER3IAD2-OF\Opdracht 1\Data-Visualisatie-Bevolking\bin\Data-Visualisatie-Bevolking_debug.exe
+  Data-Visualisatie-Bevolking.vcxproj -> bin\Data-Visualisatie-Bevolking_debug.pdb (Full PDB)
+  
+  	                   9	D:\Openframeworks\of_v0.9.7_vs_release\export\vs\Win32\
