@@ -15,6 +15,10 @@ Fouten:
 	volledig gebruikt wordt. Het lijkt dus op een pie chart in een pie chart met lijnen 
 	die aangeven hoe goed of slecht iets is, zonder daadwerkelijk de pie te gebruiken.
 
+	Wat ook een groot probleem is dat de “indicator lines” geen minimum aangeven. Daarmee
+	weet de persoon niet eens hoe goed, goed is of hoe slecht, slecht is. Enige informatie
+	die erbij wordt gegeven is “while shorter lines show areas of relative weakness”. Wat
+	is “relative weakness”? Waar wordt deze vergelijking mee vergeleken? 
 
 	Een correcte data visualisatie zou juist direct de juiste data moeten communiceren,
  	iets wat deze chart dus totaal niet doet.
@@ -24,7 +28,18 @@ Achterliggende redenen voor het ontwerp:
 
 	Naar alle waarschijnlijkheid dachten ze dat dit ontwerp erg overzichtelijk was. 
 	Zo heeft elke sector zijn eigen kleur gekregen waardoor de onderscheid wel makkelijk
-	te maken is dit is een pluspunt. Maar alles op de kleur na is slecht geëxecuteerd. 
-	De in
+	te maken is, dit is een pluspunt. Maar alles op de kleur na is slecht geëxecuteerd. 
+	De “indicator lines” zijn daarnaast te onduidelijk en vallen weg in het ontwerp. 
+	Een simpele x-y as zou effectiever zijn geweest met deze data (zie schets).
+
+	Persoonlijk denk ik dat ze het zo hebben aangepakt omdat het kleurrijk is en ziet er
+	daarom erg interessant uit. Zo was/is deze chart op Twitter gedeeld met de titel 
+	“Denmark has the best work-life balance. Here’s why” wat mij doet denken dat er niet
+	veel tijd in is gestopt om dit leesbaar te maken, want een gemiddelde gebruiker op	Twitter zou er niet veel aandacht aan besteden.
+
+	Ook denk ik persoonlijk dat dit natuurlijk de kracht van Denemarken laat zien dat 
+	iedereen blijkbaar welvaart ervaart en alles perfect is zonder enige vergelijking of
+	baseline. Want wie houd er nou niet van om een grafiek te zien die jou gedachtegoed
+	bevestigd.
 
 
