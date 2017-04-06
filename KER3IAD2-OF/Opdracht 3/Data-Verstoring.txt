@@ -35,7 +35,8 @@ Achterliggende redenen voor het ontwerp:
 	Persoonlijk denk ik dat ze het zo hebben aangepakt omdat het kleurrijk is en ziet er
 	daarom erg interessant uit. Zo was/is deze chart op Twitter gedeeld met de titel 
 	“Denmark has the best work-life balance. Here’s why” wat mij doet denken dat er niet
-	veel tijd in is gestopt om dit leesbaar te maken, want een gemiddelde gebruiker op	Twitter zou er niet veel aandacht aan besteden.
+	veel tijd in is gestopt om dit leesbaar te maken, want een gemiddelde gebruiker op	
+	Twitter zou er niet veel aandacht aan besteden.
 
 	Ook denk ik persoonlijk dat dit natuurlijk de kracht van Denemarken laat zien dat 
 	iedereen blijkbaar welvaart ervaart en alles perfect is zonder enige vergelijking of
