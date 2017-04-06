@@ -4,15 +4,27 @@ http://studenthome.hku.nl/~Bastiaan.Burghardt/files/Current-Well-Begin-Chart.jpe
 Een visualisatie van de welvaart in Denemarken. 
 
 Fouten:
-	Op het eerste blik lijkt het een pie chart te zijn. Maar 	als je de graph het goed bestudeert, blijkt het helemaal 	geen pie chart te zijn. Het idee was/is dat de pie wordt 	opgedeeld met de “indicator lines” erin die aangeven hoe 	of wat. De pie chart heeft dus geen functionele waarde 		en brengt alleen maar verwarring met zich mee.
+	Op het eerste blik lijkt het een pie chart te zijn. Maar als je de graph het goed
+ 	bestudeert, blijkt het helemaal geen pie chart te zijn. Het idee was/is dat de pie 
+	wordt opgedeeld met de “indicator lines” erin die aangeven hoe of wat. De pie chart 
+	heeft dus geen functionele waarde en brengt alleen maar verwarring met zich mee.
 
-	De “indicator lines” geven aan hoe relatief “sterk” die 	sector is, hoe langer de lijn hoe beter. Maar wat blijkt 	in de piechart zit nog een kleinere cirkel (de witte) en 	dat moet dus het uiterste zijn. Dat betekent dus dat de 	volledige cirkel niet een volledig gebruikt wordt. Het 		lijkt dus op een pie chart in een pie chart met lijnen 		die aangeven hoe goed of slecht iets is, zonder 		daadwerkelijk de pie te gebruiken.
+	De “indicator lines” geven aan hoe relatief “sterk” die sector is, hoe langer de lijn
+	hoe beter. Maar wat blijkt in de piechart zit nog een kleinere cirkel (de witte) en 
+	dat moet dus het uiterste zijn. Dat betekent dus dat de volledige cirkel niet een 
+	volledig gebruikt wordt. Het lijkt dus op een pie chart in een pie chart met lijnen 
+	die aangeven hoe goed of slecht iets is, zonder daadwerkelijk de pie te gebruiken.
 
-	Een correcte data visualisatie zou juist direct de 		juiste data moeten communiceren, iets wat deze chart dus 	totaal niet doet.
+
+	Een correcte data visualisatie zou juist direct de juiste data moeten communiceren,
+ 	iets wat deze chart dus totaal niet doet.
 	
 
 Achterliggende redenen voor het ontwerp:
 
-	Naar alle waarschijnlijkheid dachten ze dat dit ontwerp 	erg overzichtelijk was. Zo heeft elke sector zijn eigen 	kleur gekregen waardoor de onderscheid wel makkelijk te 	maken is dit is een pluspunt. Maar alles op de kleur na 	is slecht geëxecuteerd. De in
+	Naar alle waarschijnlijkheid dachten ze dat dit ontwerp erg overzichtelijk was. 
+	Zo heeft elke sector zijn eigen kleur gekregen waardoor de onderscheid wel makkelijk
+	te maken is dit is een pluspunt. Maar alles op de kleur na is slecht geëxecuteerd. 
+	De in
 
 
